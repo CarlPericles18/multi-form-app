@@ -1,0 +1,51 @@
+
+
+/* *{
+    margin: 0;
+}
+body{
+    place-items: center;
+    background-color:hsl(229, 24%, 87%) ;
+}
+.mobileImg{
+    width: 100%;
+}
+
+.nav button{
+    border-radius: 100%;
+    padding: 10px 14px;
+    background-color: transparent;
+    color: hsl(0, 0%, 100%) ;
+    border: 1px solid  hsl(0, 0%, 100%);
+    cursor: pointer;
+}
+
+.nav button:hover{
+    background-color:hsl(228, 100%, 84%) ;
+    color: black;
+}
+.nav{
+    position: relative;
+    top: -190px;
+    display: flex;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.component{
+    position: relative;
+    margin-top: 50px;
+    top: -190px;
+    background-color: hsl(0, 0%, 100%);
+    margin: 30px 20px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+.component h1{
+    color:hsl(213, 96%, 18%);
+}
+.component p{
+    color: hsl(231, 11%, 63%);
+} */
