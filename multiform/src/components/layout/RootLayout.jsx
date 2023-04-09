@@ -2,16 +2,14 @@ import{ NavLink, Outlet} from "react-router-dom"
 import React from "react"
 
 export default function RootLayout(){
-      const clicked = function(){
-        if(nav.button.clicked){
-            true
-        }else{
-            false
-        }
-      }
-      const Next = function(){
+  const clicked = function(){
+    if(nav.button.clicked){
+        true
+    }else{
+        false
+    }
+  }
     
-      }
     return(
         <div>
           <header>
