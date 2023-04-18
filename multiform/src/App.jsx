@@ -31,12 +31,7 @@ export default function App(){
   return (
     <div>
       <img className="mobileImg" src={img}></img>
-      <RouterProvider router={router}/>
-
-      <div className="nextBtn">
-                <button>Go Back</button>
-                <button>Next Step</button>
-      </div>
+      <RouterProvider router={router} />
     </div>
   )
 }
